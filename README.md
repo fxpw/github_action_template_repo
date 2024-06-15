@@ -1,5 +1,6 @@
 # GitHub Action Template
 
+Go to entrypoint.sh and write your functions
 
 ## Usage
 
